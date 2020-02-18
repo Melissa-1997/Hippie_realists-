@@ -1,11 +1,10 @@
-style.css
-<html>
-<style>
+
 body {
   background-color: #fefbd8;
+  font-family: 'Lobster', cursive;
 }
-</style>
-</html>
-<body>
-font-family: 'Lobster', cursive;
-</body>
+
+h1 {
+  color: black;
+  align-content: center;
+}
